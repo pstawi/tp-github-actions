@@ -1,6 +1,9 @@
-# TP GitHub Actions - Starter Kit
+# Mon Projet DevOps
+
+![CI Pipeline](https://github.com/pstawi/tp-github-actions/actions/workflows/ci.yml)
 
 Formation M2 ESTD - Initiation DevOps
+
 
 ## Installation
 
@@ -9,6 +12,8 @@ npm install
 ```
 
 ## Tests
+
+Ce projet utilise Vitest pour les tests automatisés.
 
 ```bash
 npm test
